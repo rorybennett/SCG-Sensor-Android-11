@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SCG</string>
+    <string name="button">Button</string>
+    <string name="connect">connect</string>
+    <string name="Settings">Settings</string>
+    <string name="calibrate">calibrate</string>
+    <string name="title_paired_devices">title_paired_devices</string>
+    <string name="title_other_devices">title_other_devices</string>
+    <string name="button_scan">button_scan</string>
+    <string name="devices">Devices</string>
+    <string name="newdevices">newDevices</string>
+    <string name="disconnect">disconnect</string>
+    <string name="start">start</string>
+    <string name="mainmenu">mainMenu</string>
+    <string name="none_found">No devices found</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="title_activity_synchronisation">Synchronisation</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="synchronisation">synchronisation</string>
+    <string name="synchro">synchro</string>
+    <string name="todo">TODO</string>
+    <string name="HR">HR</string>
+    <string name="RR">RR</string>
+</resources>
